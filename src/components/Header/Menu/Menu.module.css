@@ -17,7 +17,7 @@
 }
 
 .menuTop {
-  background-color: var(--primary-color);
+  background-color: var(--color-one);
   color: white;
   display: flex;
   width: 100%;
@@ -94,8 +94,8 @@
 
 .lineOrange {
   display: block;
-  border: 1px solid var(--primary-color);
-  background-color: var(--primary-color);
+  border: 1px solid var(--color-one);
+  background-color: var(--color-one);
   width: 100%;
 }
 

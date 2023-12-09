@@ -15,9 +15,14 @@ header {
     0px 1px 10px rgba(0, 0, 0, 0.2);
 }
 
+.logoDC {
+  width: 66px;
+  height: 66px;
+}
+
 .containerLeft {
   display: flex;
-  height: 56px;
+  height: 66px;
 }
 
 .motto {
